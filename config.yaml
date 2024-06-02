@@ -1,0 +1,22 @@
+#header配置
+headers:
+  User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+  Host: "www.weibo.com"
+  Method: "GET"
+  Path: "/ajax/message/myCmt"
+  Scheme: "https"
+  Accept: "application/json, text/plain, */*"
+  Accept-Encoding: "gzip, deflate, br, zstd"
+  Accept-Language: "zh-CN,zh;q=0.9,en;q=0.8"
+  Client-Version: "v2.45.33"
+
+
+#cookie配置
+cookies:
+  _language: "zh_CN"
+  __td_signed: "true"
+
+  SUB: "_2A25LX5nvDeRhGeFI6VcX8ynOzz6IHXVoFJMnrDV8PUJbkNANLW_tkW1NfS6M9SC3B0azURLTc2ZSOLkJlPQ0aipi"
+
+# 生成的md文件路径
+path: "./commentsByMe.md"
