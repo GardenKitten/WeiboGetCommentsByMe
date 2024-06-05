@@ -7,6 +7,11 @@
 3. 将cookie里的SUB数值复制到yaml文件里
 4. 运行exe，等待程序运行完毕即可
 
+## 功能特性
+1. 支持黄豆表情
+2. 昵称均带有超链接，点击可跳转账号主页
+3. 支持显示原微博和楼中楼
+
 ## 导出效果展示
 ### 普通评论
 ![](https://raw.githubusercontent.com/GardenKitten/Picbed/main/blog_files/img/cmt01.png)
